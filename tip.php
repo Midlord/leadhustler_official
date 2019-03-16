@@ -23,7 +23,7 @@
               <div class="col-md-8">
                 <h1 class="page-title">VIDEO RECORD FOR TIPS AND CALL ISSUES</h1>
                 <div class="page-sub-title">
-                <p style="color: rgba(255,255,255, .8);"> DON'T KNOW HOW TO RESPOND TO A CERTAIN CALL? </p>
+                <!-- <p style="color: rgba(255,255,255, .8);"> DON'T KNOW HOW TO RESPOND TO A CERTAIN CALL? </p> -->
                 <p style="color: rgba(255,255,255, .8);">Type: Tips and Issues </p>
               </div>
               </div>

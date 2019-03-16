@@ -24,7 +24,7 @@
                 <h1 class="page-title">BASIC SCRIPT FOR INDIVUAL & GROUP PLAN</h1>
                 <div class="page-sub-title">
                 <p style="color: rgba(255,255,255, .8);"> DON'T KNOW HOW TO RESPOND TO A CERTAIN CALL? </p>
-                <p style="color: rgba(255,255,255, .8);">Let Introduction and Manuals help you! </p>
+                <!-- <p style="color: rgba(255,255,255, .8);">Let Introduction and Manuals help you! </p> -->
               </div>
               </div>
               

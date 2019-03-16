@@ -11,7 +11,7 @@
 
     <!-- Copyright -->
     <div class="footer-copy">
-        <a href="http://themeforest.net/user/abcgomel/portfolio" target="_blank">&copy; Leadhustler 2019 </a>
+        &copy; Leadhustler <?php echo date('Y'); ?> 
     </div>
             
     </div>

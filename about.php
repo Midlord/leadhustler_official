@@ -29,7 +29,7 @@
                
               <div class="col-md-4">
                 <div class="breadcrumbs">
-                  <a href="index.php">Home</a><span class="slash-divider">/</span> <a href="About.php"> <span class="bread-current" >ABOUT ME</a></span>
+                  <a href="index.php">Home</a><span class="slash-divider">/</span> <a href="About.php"> <span class="bread-current" >ABOUT US</a></span>
                 </div>
               </div>
               
